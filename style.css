@@ -1,13 +1,13 @@
 :root {
   --cor-fundo-1: #f6edff;
-  --cor-fundo-2: #e7d8ff;
-  --cor-fundo-3: #d9c2ff;
+  --cor-fundo-2: #ffd8fc;
+  --cor-fundo-3: #ffc2ff;
   --cor-principal: rgba(255, 255, 255, 0.7);
-  --cor-secundaria: #caa8ff;
-  --cor-destaque: #8c5ae7;
-  --cor-destaque-escuro: #6f3fcf;
+  --cor-secundaria: #a8fff8;
+  --cor-destaque: #5ae7db;
+  --cor-destaque-escuro: #3fa6cf;
   --cor-texto: #3a1d5c;
-  --cor-borda: #d9c6ff;
+  --cor-borda: #fdc6ff;
 }
 
 * {
